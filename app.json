@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Zero Store",
+    "slug": "zero-store",
+    "scheme": "zerostore",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.zerostore.marketplace",
+      "adaptiveIcon": {
+        "backgroundColor": "#07110C"
+      }
+    },
+    "plugins": ["expo-web-browser"]
+  }
+}
